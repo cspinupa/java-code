@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 /*
 This class is used for understanding and practicing java8 features
+https://mkyong.com/tutorials/java-8-tutorials/
 */
 public class Main8 {
     public Main8() {
@@ -11,7 +12,7 @@ public class Main8 {
     }
     /*
     streams examples
-        https://zetcode.com/java/streamfilter/
+        https://www.geeksforgeeks.org/streams-arrays-java-8/
 
 
     */
