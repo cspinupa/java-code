@@ -9,7 +9,12 @@ public class Main8 {
     public Main8() {
 
     }
-    //streams
+    /*
+    streams examples
+        https://zetcode.com/java/streamfilter/
+
+
+    */
     public void parseArr(){
         int[] arr= {12,3,5,32,45,6,7,82,34,67,22,11,467,78};
         System.out.println("\n Array in consideration is :"); 
