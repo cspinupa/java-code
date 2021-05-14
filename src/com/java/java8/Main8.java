@@ -32,4 +32,8 @@ public class Main8 {
         System.out.println("");
         
     }
+
+    /**
+     * Functional interfaces: https://www.journaldev.com/2763/java-8-functional-interfaces
+     */
 }
